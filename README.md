@@ -1,6 +1,8 @@
 # -GroceSolv
 # 🛒 GroceSolv – Smart Grocery Management for a Zero-Waste Future
 
+Youtube Video Link- https://youtu.be/qEIcRnNd4k8
+
 Welcome to GroceSolv, a smart grocery management web application aimed at reducing food waste, simplifying meal planning, and making grocery shopping smarter. Built for sustainability-minded households and individuals, GroceSolv helps users track expiry dates, discover recipes based on available ingredients, and generate intelligent shopping lists.
 
 > "Cook Smart, Shop Smarter, Waste Less" – Our mission is to help users make conscious kitchen decisions that benefit both their wallet and the planet. 🌍
